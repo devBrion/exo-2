@@ -1,0 +1,14 @@
+{
+    "name": "celine/test_exo_perso",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.5",
+        "components/jquery": "^3.5"
+    },
+    "authors": [
+        {
+            "name": "celinesalut",
+            "email": "brionceline@live.fr"
+        }
+    ]
+}
